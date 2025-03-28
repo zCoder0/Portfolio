@@ -76,7 +76,7 @@ def main():
     st.set_page_config(page_title="Chat PDF")
     st.header("Interactive RAG-based LLM for Multi-PDF Document Analysis", divider='rainbow')
 
-    user_question = st.text_input("Ask a Question from the PDF Files")
+    user_question = st.chat_input("Ask a Question from the PDF Files")
 
     if user_question:
         user_input(user_question)
