@@ -1,0 +1,20 @@
+[ 2025-03-29 12:16:16,695 ] 11 root - INFO - Error occured in python script name at G:\AI MODELS\Portfolio\main.py on line number 5 error messgae division by zero
+[ 2025-03-29 12:31:37,603 ] 125 faiss.loader - INFO - Loading faiss with AVX2 support.
+[ 2025-03-29 12:31:37,911 ] 127 faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+[ 2025-03-29 12:31:37,922 ] 185 faiss - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+[ 2025-03-29 12:41:47,050 ] 14 root - INFO - Error occured in python script name at G:\AI MODELS\Portfolio\src\components\preprocessing.py on line number 47 error messgae extract_text() missing 1 required positional argument: 'pdf_path'
+[ 2025-03-29 12:43:35,641 ] 14 root - INFO - Error occured in python script name at G:\AI MODELS\Portfolio\src\components\preprocessing.py on line number 16 error messgae [Errno 2] No such file or directory: 'data_set/datas.py'
+[ 2025-03-29 12:43:35,641 ] 14 root - INFO - Error occured in python script name at G:\AI MODELS\Portfolio\src\components\preprocessing.py on line number 29 error messgae expected string or bytes-like object
+[ 2025-03-29 12:43:35,663 ] 14 root - INFO - Error occured in python script name at G:\AI MODELS\Portfolio\src\components\preprocessing.py on line number 38 error messgae object of type 'NoneType' has no len()
+[ 2025-03-29 12:44:15,605 ] 14 root - INFO - Error occured in python script name at G:\AI MODELS\Portfolio\src\components\preprocessing.py on line number 16 error messgae [Errno 2] No such file or directory: 'components/data_set/datas.py'
+[ 2025-03-29 12:44:15,605 ] 14 root - INFO - Error occured in python script name at G:\AI MODELS\Portfolio\src\components\preprocessing.py on line number 29 error messgae expected string or bytes-like object
+[ 2025-03-29 12:44:15,626 ] 14 root - INFO - Error occured in python script name at G:\AI MODELS\Portfolio\src\components\preprocessing.py on line number 38 error messgae object of type 'NoneType' has no len()
+[ 2025-03-29 12:44:32,710 ] 14 root - INFO - Error occured in python script name at G:\AI MODELS\Portfolio\src\components\preprocessing.py on line number 16 error messgae [Errno 2] No such file or directory: 'components/data_set/datas.pdf'
+[ 2025-03-29 12:44:32,711 ] 14 root - INFO - Error occured in python script name at G:\AI MODELS\Portfolio\src\components\preprocessing.py on line number 29 error messgae expected string or bytes-like object
+[ 2025-03-29 12:44:32,733 ] 14 root - INFO - Error occured in python script name at G:\AI MODELS\Portfolio\src\components\preprocessing.py on line number 38 error messgae object of type 'NoneType' has no len()
+[ 2025-03-29 12:44:49,173 ] 125 faiss.loader - INFO - Loading faiss with AVX2 support.
+[ 2025-03-29 12:44:49,194 ] 127 faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+[ 2025-03-29 12:44:49,202 ] 185 faiss - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+[ 2025-03-29 12:45:19,308 ] 125 faiss.loader - INFO - Loading faiss with AVX2 support.
+[ 2025-03-29 12:45:19,331 ] 127 faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+[ 2025-03-29 12:45:19,338 ] 185 faiss - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.

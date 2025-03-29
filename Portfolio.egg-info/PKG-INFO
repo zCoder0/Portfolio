@@ -1,0 +1,24 @@
+Metadata-Version: 2.4
+Name: Portfolio
+Version: 1.0
+Summary: Portfolio Project
+Author: Prem Raj
+Author-email: rajp37590@gmail.com
+Requires-Dist: streamlit
+Requires-Dist: google-generativeai
+Requires-Dist: python-dotenv
+Requires-Dist: langchain
+Requires-Dist: PyPDF2
+Requires-Dist: chromadb
+Requires-Dist: faiss-cpu
+Requires-Dist: langchain_google_genai
+Requires-Dist: plotly
+Requires-Dist: folium
+Requires-Dist: streamlit_folium
+Requires-Dist: seaborn
+Requires-Dist: pandas
+Requires-Dist: numpy
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
+Dynamic: summary

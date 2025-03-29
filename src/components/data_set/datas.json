@@ -1,0 +1,147 @@
+{
+    "Self_Intro_Contact": [
+        {
+            "tag": "self intro",
+            "name": "",
+            "date_of_birth": "",
+            "Father-Name": "",
+            "Mother-Name": "",
+            "Profession": "",
+            "professional Summary": ""
+        },
+        {
+            "tag": "contact",
+            "mobile_number": "",
+            "email_id": "",
+            "address": "",
+            "linked_in": "",
+            "github": "",
+            "languages": []
+        },
+        {
+            "tag": "Higher Education",
+            "education_name": "",
+            "department": "",
+            "education_duration": "",
+            "CGPA": "",
+            "education_institution": "",
+            "education_location": ""
+        },
+        {
+            "tag": "HSC",
+            "education_name": "",
+            "department": "",
+            "education_duration": "",
+            "Percentage": "",
+            "education_institution": ""
+        },
+        {
+            "tag": "SSLC",
+            "education_name": "",
+            "education_duration": "",
+            "Percentage": "",
+            "education_institution": ""
+        }
+    ],
+    "Working Experience": [
+        {
+            "tag": "CompanyName",
+            "company_name": "",
+            "company_location": "",
+            "company_duration": "",
+            "company_role": "",
+            "company_description": "",
+            "experience": ""
+        }
+    ],
+    "Skills": [
+        {
+            "tag": "Programming1",
+            "skill_name": "",
+            "skill_level1": "",
+            "skill_description": "",
+            "skill_experience": ""
+        },
+        {
+            "tag": "Programming2",
+            "skill_name": "",
+            "skill_level2": "",
+            "skill_description": "",
+            "skill_experience": ""
+        },
+        {
+            "tag": "Programming3",
+            "skill_name": "",
+            "skill_level3": "",
+            "skill_description": "",
+            "skill_experience": ""
+        },
+        {
+            "tag": "Programming4",
+            "skill_name": "",
+            "skill_level4": "",
+            "skill_description": "",
+            "skill_experience": ""
+        }
+    ],
+    "TechnicalSkills": [
+        {
+            "tag": "Data Science",
+            "skill_name": "",
+            "skill_level_ds": "",
+            "skill_description": "",
+            "skill_experience": "",
+            "tools": ""
+        },
+        {
+            "tag": "Machine Learning & AI",
+            "skill_name": "",
+            "skill_level_ml": "",
+            "skill_description": "",
+            "skill_experience": "",
+            "tools": ""
+        },
+        {
+            "tag": "Tools and Frame work",
+            "ai_tools": "",
+            "ai_frameworks": "",
+            "web_frameworks": "",
+            "web_tools": "",
+            "database": ""
+        }
+    ],
+    "Projects": [
+        {
+            "tag": "Project 1",
+            "project_name": "",
+            "project_description": "",
+            "project_tools": "",
+            "live_demo_link": "",
+            "github_link": ""
+        },
+        {
+            "tag": "Project 2",
+            "project_name": "",
+            "project_description": "",
+            "project_tools": "",
+            "live_demo_link": "",
+            "github_link": ""
+        },
+        {
+            "tag": "Project 3",
+            "project_name": "",
+            "project_description": "",
+            "project_tools": "",
+            "live_demo_link": "",
+            "github_link": ""
+        },
+        {
+            "tag": "Project 4",
+            "project_name": "",
+            "project_description": "",
+            "project_tools": "",
+            "live_demo_link": "",
+            "github_link": ""
+        }
+    ]
+}

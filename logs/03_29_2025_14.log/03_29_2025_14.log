@@ -1,0 +1,9 @@
+[ 2025-03-29 14:03:54,862 ] 125 faiss.loader - INFO - Loading faiss with AVX2 support.
+[ 2025-03-29 14:03:55,244 ] 127 faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+[ 2025-03-29 14:03:55,261 ] 185 faiss - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+[ 2025-03-29 14:10:19,498 ] 125 faiss.loader - INFO - Loading faiss with AVX2 support.
+[ 2025-03-29 14:10:20,178 ] 127 faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+[ 2025-03-29 14:10:20,251 ] 185 faiss - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+[ 2025-03-29 14:39:51,014 ] 125 faiss.loader - INFO - Loading faiss with AVX2 support.
+[ 2025-03-29 14:39:51,528 ] 127 faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+[ 2025-03-29 14:39:51,540 ] 185 faiss - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.

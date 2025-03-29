@@ -1,0 +1,46 @@
+{
+    "Skills":[
+        {
+            "Programming_languages":["Python","Java","C","C++"],
+            "level":["90","75","80","80"]
+        }
+    ],
+    
+    "Education":[
+    {    
+        "tag":"Higher Education",
+        "education_name":"Bachelor of Engineering",
+        "CGPA":"7.9"
+    },
+    {
+        "tag":"HSC",
+        "education_name":"Higher Secondary Certificate",
+        "Percentage":"69%"
+    },
+    {
+        "tag":"SSLC",
+        "education_name":"Secondary School Leaving Certificate",
+        "Percentage":"75%"
+    }
+    ],
+    
+    "Location":[
+        {
+            "tag":"Working",
+            "place":"Infosystems, Thanjavur",
+            "lat":"10.7824",
+            "long":"79.1391"
+        },{
+            "tag":"Address",
+            "place":"Annukudi, Valangaiman (Tk), Thiruvarur (Dt)",
+            "lat":"10.9268",
+            "long":"79.2655"
+        },
+        {
+            "tag":"CollegeAddress",
+            "place":"Star Lion College of Engineering and Technology Manangorai Thanjavur ",
+            "lat":"10.8569187",
+            "long":"79.16083"
+        }
+    ]
+}
