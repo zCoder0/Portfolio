@@ -12,7 +12,7 @@ import os
 
 load_dotenv()
 os.getenv("GOOGLE_API_KEY")
-genai.configure(api_key="AIzaSyDYmRkdJYsodB-Z-iv2iMsYY43epRjnQrI")
+genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
 
 def __path__():
     return os.path.join(os.getcwd(),'faiss-lib')
