@@ -62,7 +62,8 @@ page = st.sidebar.radio("Select Section", ["🏠 Home", "🔥 Skills", "📚 Edu
 
 if page == "🏠 Home":
     st.title("📊 Portfolio Analytics Dashboard")
-    st.markdown("### Welcome to my interactive portfolio dashboard! 🚀")
+    st.markdown("### Hi , Iam PREM RAJ")
+    st.markdown("### Welcome to my interactive portfolio dashboard! ")
 
     st.markdown("""
         - **Explore my technical skills** with an interactive **heatmap** 
